@@ -1,2 +1,2 @@
-# Bank-study-project
+# Simply-Bank-App
 HTML5, CSS3 , JavaScript
